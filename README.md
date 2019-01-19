@@ -1,0 +1,2 @@
+# mindmaps
+study mindmaps
